@@ -2,7 +2,7 @@
 
 ## Overview
 
-Nodeshare is a peer-to-peer (P2P) platform for seamless file sharing and file format conversions. The website enables users to upload, share, and convert files with ease while maintaining privacy and speed through advanced technology. Inspired by platforms like Convertio and ToffeeShare, Nodeshare provides an intuitive user experience for all file management needs.
+Nodeshare is a peer-to-peer (P2P) platform for seamless file sharing and file format conversions. The website enables users to upload, share, and convert files with ease while maintaining privacy and speed through advanced technology. Inspired by platforms like Convertio and ToffeeShare, Nodeshare provides an intuitive user experience for all file management needs. 
 
 ## Features
 
